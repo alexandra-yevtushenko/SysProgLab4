@@ -1,0 +1,7 @@
+#unuseful  function :)
+def funct()
+	for i in range(0, 9):
+		a = i
+		str = "HelloПривет"
+		if (i % 2):
+			b = b + i
